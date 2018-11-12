@@ -1,0 +1,13 @@
+.btnClass{
+    padding-top: 10px;
+    padding-bottom:10px;
+    /* padding-left: 10px; */
+    align-content: left;
+}
+.classinput{
+    width: 250px;
+}
+.classtext{
+    margin-top: 8px;
+    font-size: initial;
+}
